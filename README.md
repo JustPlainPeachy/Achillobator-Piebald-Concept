@@ -8,7 +8,7 @@ Inspired by a piebald cardinal, a beautiful red bird with an orange beak
 ![Main Render](https://github.com/JustPlainPeachy/Achillobator-Piebald-Concept/blob/main/Achillo%20Piebald%20Concept%202.png)
 
 ## Inspiration Image
-![Inspiration Image]
+![Inspiration Image](https://github.com/JustPlainPeachy/Achillobator-Piebald-Concept/blob/main/IMG_3724.webp)
 
 ## Base Image From PoT modding discord channel
 ![Base Image]
